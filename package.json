@@ -1,8 +1,8 @@
 {
-  "name": "chr-ge.com",
+  "name": "Raunak Kumar Jha",
   "version": "0.1.2",
   "private": true,
-  "author": "George Christeas <george@chr-ge.com> (https://chr-ge.com/)",
+  "author": "Raunak Kumar Jha <raunak jha> (https://raunakjha-portfolio.vercel.app/)",
   "license": "GPL-2.0-or-later",
   "scripts": {
     "type-check": "tsc --pretty --noEmit",
@@ -15,10 +15,10 @@
     "analyze": "ANALYZE=true yarn build"
     
   },
-  "homepage": "https://chr-ge.com",
+  "homepage": "https://raunakjha-portfolio.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chr-ge/chr-ge.com.git"
+    "url": "git+https://github.com/raunak3208"
   },
   "dependencies": {
     "@chakra-ui/next-js": "^2.4.2",
