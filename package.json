@@ -12,8 +12,8 @@
     "lint": "eslint . --ext .js,.ts,.tsx",
     "lint:fix": "yarn lint --fix",
     "gen:theme-typings": "chakra-cli tokens theme/theme.ts",
-    "analyze": "ANALYZE=true yarn build",
-    "postinstall": "husky install"
+    "analyze": "ANALYZE=true yarn build"
+    
   },
   "homepage": "https://chr-ge.com",
   "repository": {
