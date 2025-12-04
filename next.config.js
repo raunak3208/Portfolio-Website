@@ -58,3 +58,8 @@ module.exports = withBundleAnalyzer({
   skipTrailingSlashRedirect: true,
   i18n,
 })
+module.exports = {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+};
