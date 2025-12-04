@@ -63,3 +63,13 @@ module.exports = {
     ignoreDuringBuilds: true,
   },
 };
+module.exports = {
+  async redirects() {
+    return [
+      { source: '/bookmarks', destination: '/', permanent: false },
+    ]
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+};
